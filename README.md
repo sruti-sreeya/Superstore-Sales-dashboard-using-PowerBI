@@ -23,5 +23,4 @@ Create an interactive sales dashboard using Power BI based on the provided Super
 
 ### 📁 Files
 - SuperstoreDashboard.pbix
-- Superstore finale dataset
-- .csv 
+- Superstore finale dataset .csv 
